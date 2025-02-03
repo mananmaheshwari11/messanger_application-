@@ -1,4 +1,4 @@
-import {StyleSheet, Text, View } from "react-native";
+// import {StyleSheet, Text, View } from "react-native";
 import { StatusBar } from "expo-status-bar"
 import { Redirect } from "expo-router";
  export default function HomeScreen(){
