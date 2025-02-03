@@ -36,6 +36,11 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra":{
+      "EXPO_STREAM_API":"ka5s2h8xdbd3",
+      "DATABASE_URL":"https://pfwxzuvyhfnzumjxpmkv.supabase.co",
+      "DATABASE_ANON_KEY":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBmd3h6dXZ5aGZuenVtanhwbWt2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzgzMjQ4NjcsImV4cCI6MjA1MzkwMDg2N30.m4C8AsrKjMBAb22QM5FRdbDgYxFN9rHrEhFv5K17VmI"
     }
   }
 }
